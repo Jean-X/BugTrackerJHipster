@@ -1,0 +1,35 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "messenger"
+    },
+    "jhipsterVersion": "5.8.2",
+    "applicationType": "monolith",
+    "baseName": "messenger",
+    "packageName": "messenger",
+    "packageFolder": "messenger",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "YmM2MzA2MDM2ZjliNDVmNmQ3ZTUyNmI4NGY4MGZmNzE2MDUyZjU0ODljZTJjMzU2ZDNhMGQ5OGUzNWI4ZjU2NDRkMzdlZjc0ODcyNWUyNjdhYmRhZDI4OGU5NzQ5Yjg3YzE4YzVlZGVmMTMzMDZiZTZhMTZmYTZlNWViMjYzZmQ=",
+    "clientFramework": "angularX",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false
+  }
+}
